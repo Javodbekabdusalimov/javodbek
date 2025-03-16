@@ -1,0 +1,44 @@
+.orqa {
+  background-color: grey;
+}
+.sarlavha {
+  color: white;
+  margin: 0 auto;
+  background-color: black;
+  width: 636px;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-bottom: 55px;
+}
+.otasi {
+  background-color: black;
+  width: 1000px;
+  height: 638px;
+  margin: 0 auto;
+  border: 10px solid red;
+  padding: 45px 52px;
+  box-sizing: border-box;
+}
+.abolasi {
+  width: 896px;
+  height: 259px;
+  background-color: aqua;
+  padding: 54px 40px;
+  box-sizing: border-box;
+}
+
+.marbt {
+  margin-bottom: 30px;
+}
+.matn {
+  font-family: Inter;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: justify;
+}
